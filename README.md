@@ -1,6 +1,6 @@
 # FEniCS-code
-# make sure you have FEniCS already running on your computer
-# load attached FEniCS code
-# save xlsx file in appropriate file directory
-# update FEniCS code with the file path  in step 4 above
-# Edit FEniCS code and Run
+1) make sure you have FEniCS already running on your computer
+2) load attached FEniCS code
+3) save xlsx file in appropriate file directory
+4) update FEniCS code with the file path  in step 4 above
+5) Edit FEniCS code and Run
